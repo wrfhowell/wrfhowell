@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey, I'm will 🌱. 
 
 ![Snake animation](https://github.com/wrfhowell/wrfhowell/blob/output/github-contribution-grid-snake-dark.svg)
 
