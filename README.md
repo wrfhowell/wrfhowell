@@ -1,10 +1,6 @@
 ### Hi there 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-![Snake animation](https://github.com/wrfhowell/wrfhowell/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/wrfhowell/wrfhowell/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **wrfhowell/wrfhowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
