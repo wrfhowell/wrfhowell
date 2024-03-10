@@ -1,4 +1,4 @@
-# Hey, I'm will 🌱. 
+# hey, I'm [will](https://willhowell.site). fifth year student in CS @ ubc  🌱 
 
 ![Snake animation](https://github.com/wrfhowell/wrfhowell/blob/output/github-contribution-grid-snake-dark.svg)
 
